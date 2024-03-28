@@ -1,9 +1,9 @@
 # Create a list of people
 people = [
-    {"name": "John Doe", "age": 30, "city": "New York"},
-    {"name": "Jane Smith", "age": 22, "city": "Los Angeles"},
-    {"name": "David Lee", "age": 28, "city": "Chicago"},
-    {"name": "Alice Brown", "age": 35, "city": "Boston"},
+    {"name": "Ajay", "age": 24, "city": "Ujjain"},
+    {"name": "ram", "age": 32, "city": "Indore"},
+    {"name": "karan", "age": 28, "city": "Bhopal"},
+    {"name": "Vijay", "age": 35, "city": "Gwalior"},
 ]
 
 # Filter people under 25 years old
